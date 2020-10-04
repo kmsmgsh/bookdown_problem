@@ -1,0 +1,3 @@
+[
+["methods.html", "4 Methods", " 4 Methods We describe our methods in this chapter. Let’s run some code a=c(1,2,3) print(a) ## [1] 1 2 3 之后的格式呢？ 好像还在啊。。。 schools_dat=list(J=8,y = c(28, 8, -3, 7, -1, 1, 18, 12), sigma = c(15, 10, 16, 11, 9, 11, 10, 18)) 导入之前存好的模型 fit &lt;- stan(file = &#39;./schools.stan&#39;, data = schools_dat) 格式咋没了 "]
+]
